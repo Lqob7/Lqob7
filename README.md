@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lqob7
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Leslie
+- 👀 I’m interested in video games and game design
+- 🌱 I’m currently learning software engineering, designing game
+- 💞️ I’m looking to collaborate on any video game projects
 - 📫 How to reach me dc Lqob7#0297
 
 <!---
